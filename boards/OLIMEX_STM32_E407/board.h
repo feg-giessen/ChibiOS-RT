@@ -29,8 +29,9 @@
 
 /*
  * Ethernet PHY type.
+ * Old (till Rev. B) MII_KS8721_ID
  */
-#define BOARD_PHY_ID                MII_KS8721_ID
+#define BOARD_PHY_ID                MII_LAN8710A_ID
 #define BOARD_PHY_RMII
 
 /*
